@@ -3,11 +3,13 @@ Givonna projetc.
 Select for PNe in the VPHASDR3 catalog (J. E. Drew, for the VPHAS+ consortium).
 
 Things that we must know:
-"The primary goal of the VST Photometric Ha Survey of the Southern Galactic Plane and Bulge (VPHAS+) is to collect single-epoch ugri broad-band and Ha narrow-band photometry across the southern Galactic Plane within the latitude range -5o< b < +5odown to point source magnitudes of ~21 or better.  The VPHAS+ footprint also includes the inner Galactic Bulge, defined as a 20 x 20 deg2box around the Galactic Centre: this assures optical coverage of the full VVV footprint" (Info taken from https://www.vphasplus.org/vphasplus-dr3-release-description.pdf).
+"The primary goal of the VST Photometric Ha Survey of the Southern Galactic Plane and Bulge (VPHAS+) is to collect single-epoch ugri broad-band and Ha narrow-band photometry across the southern Galactic Plane within the latitude range -5o< b < +5o down to point source magnitudes of ~21 or better.  The VPHAS+ footprint also includes the inner Galactic Bulge, defined as a 20 x 20 deg2box around the Galactic Centre: this assures optical coverage of the full VVV footprint" (Info taken from https://www.vphasplus.org/vphasplus-dr3-release-description.pdf).
 
 The catalog contains  319 126 837 rows. "Each row corresponds to the detection of an object in a sequence of 3+3 exposures taken at the same position onthe sky using the ugr and riHa filters".
 
 Because the r band is included in both the blue and the red sequence, there are two exposures available in this filter at each telescope pointing. In the catalogue we define “r” as the r-band mag-nitude obtained as part of the red sequence, and “r2” as the magnitude obtained as part of the blue sequence. Each row hence contains two distinctly-labeled r magnitudes.  Note however that the overall sky area so far covered by red sequences is significantly larger than that observed by blue sequences, and as a result, many rows in the catalogue show values for riHa but none for ugr2.   In the absence of i band data, it has not been possible to include in this catalogue 15 fields for which only ugr sequences were collected before end September 2013 (http://www.eso.org/rm/api/v1/public/releaseDescriptions/65).
+
+
 
 The colour criteria to select PNe candidates:
 
